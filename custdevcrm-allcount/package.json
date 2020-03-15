@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": {},
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "allcountjs": "^1.14.5"
   },
   "scripts": {
